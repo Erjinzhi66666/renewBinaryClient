@@ -1,0 +1,566 @@
+{
+  "Misc": {
+    "open": false,
+    "visible": true,
+    "posX": 100,
+    "posY": 125,
+    "AntiBot": {
+      "Settings": false
+    },
+    "AntiExploit": {
+      "Settings": false
+    },
+    "AntiStaff": {
+      "Settings": false
+    },
+    "AntiVanish": {
+      "Settings": false
+    },
+    "AutoGG": {
+      "Settings": false
+    },
+    "AutoLogin": {
+      "Settings": false
+    },
+    "AutoPlay": {
+      "Settings": false
+    },
+    "ChatTranslator": {
+      "Settings": false
+    },
+    "FakePlayer": {
+      "Settings": false
+    },
+    "HealthWarn": {
+      "Settings": false
+    },
+    "Insult": {
+      "Settings": false
+    },
+    "MemoryFix": {
+      "Settings": false
+    },
+    "NameProtect": {
+      "Settings": false
+    },
+    "NoInvClose": {
+      "Settings": false
+    },
+    "NoRotateSet": {
+      "Settings": false
+    },
+    "PacketDebugger": {
+      "Settings": false
+    },
+    "PotionSpoof": {
+      "Settings": false
+    },
+    "SilentDisconnect": {
+      "Settings": false
+    },
+    "Spammer": {
+      "Settings": false
+    },
+    "Teams": {
+      "Settings": false
+    }
+  },
+  "Exploit": {
+    "open": false,
+    "visible": true,
+    "posX": 100,
+    "posY": 145,
+    "AntiDesync": {
+      "Settings": false
+    },
+    "ChatBypass": {
+      "Settings": false
+    },
+    "Damage": {
+      "Settings": false
+    },
+    "Disabler": {
+      "Settings": false
+    },
+    "GhostHand": {
+      "Settings": false
+    },
+    "Ghostblocks": {
+      "Settings": false
+    },
+    "IllegalItems": {
+      "Settings": false
+    },
+    "InfiniteDurability": {
+      "Settings": false
+    },
+    "ItemMagnet": {
+      "Settings": false
+    },
+    "Kick": {
+      "Settings": false
+    },
+    "MultiActions": {
+      "Settings": false
+    },
+    "PackSpoofer": {
+      "Settings": false
+    },
+    "Phase": {
+      "Settings": false
+    },
+    "PingSpoof": {
+      "Settings": false
+    },
+    "Plugins": {
+      "Settings": false
+    },
+    "ServerCrasher": {
+      "Settings": false
+    },
+    "Teleport": {
+      "Settings": false
+    },
+    "ViaVersionFix": {
+      "Settings": false
+    }
+  },
+  "Player": {
+    "open": false,
+    "visible": true,
+    "posX": 370,
+    "posY": 80,
+    "AntiVoid": {
+      "Settings": false
+    },
+    "AutoReport": {
+      "Settings": false
+    },
+    "AutoTool": {
+      "Settings": false
+    },
+    "Blink": {
+      "Settings": false
+    },
+    "Eagle": {
+      "Settings": true
+    },
+    "FastUse": {
+      "Settings": false
+    },
+    "Gapple": {
+      "Settings": false
+    },
+    "HackerDetector": {
+      "Settings": false
+    },
+    "InvManager": {
+      "Settings": false
+    },
+    "MidClick": {
+      "Settings": false
+    },
+    "NoFall": {
+      "Settings": false
+    },
+    "PrevFallPos": {
+      "Settings": false
+    },
+    "Refill": {
+      "Settings": false
+    },
+    "Regen": {
+      "Settings": false
+    },
+    "SpinBot": {
+      "Settings": false
+    }
+  },
+  "Combat": {
+    "open": false,
+    "visible": true,
+    "posX": 451,
+    "posY": 45,
+    "Aimbot": {
+      "Settings": false
+    },
+    "AutoBot": {
+      "Settings": false
+    },
+    "AutoClicker": {
+      "Settings": false
+    },
+    "AutoRod": {
+      "Settings": false
+    },
+    "AutoWeapon": {
+      "Settings": false
+    },
+    "Backtrack": {
+      "Settings": false
+    },
+    "BowAimbot": {
+      "Settings": false
+    },
+    "BowAura": {
+      "Settings": false
+    },
+    "ComboOneHit": {
+      "Settings": false
+    },
+    "Criticals": {
+      "Settings": false
+    },
+    "FastBow": {
+      "Settings": false
+    },
+    "FightBot": {
+      "Settings": false
+    },
+    "HitBox": {
+      "Settings": false
+    },
+    "InfiniteAura": {
+      "Settings": false
+    },
+    "KeepRange": {
+      "Settings": false
+    },
+    "KeepSprint": {
+      "Settings": false
+    },
+    "KillAura": {
+      "Settings": false
+    },
+    "LegitReach": {
+      "Settings": false
+    },
+    "NoClickDelay": {
+      "Settings": false
+    },
+    "Reach": {
+      "Settings": false
+    },
+    "RemoveEffect": {
+      "Settings": false
+    },
+    "SuperKnockback": {
+      "Settings": false
+    },
+    "TickBase": {
+      "Settings": false
+    },
+    "Velocity": {
+      "Settings": false
+    }
+  },
+  "Movement": {
+    "open": false,
+    "visible": true,
+    "posX": 330,
+    "posY": 43,
+    "AirJump": {
+      "Settings": false
+    },
+    "AntiStuck": {
+      "Settings": false
+    },
+    "BoatFly": {
+      "Settings": false
+    },
+    "BoatJump": {
+      "Settings": false
+    },
+    "BowJump": {
+      "Settings": false
+    },
+    "FastLadder": {
+      "Settings": false
+    },
+    "Fly": {
+      "Settings": false
+    },
+    "Freeze": {
+      "Settings": false
+    },
+    "Glide": {
+      "Settings": false
+    },
+    "HighJump": {
+      "Settings": false
+    },
+    "InventoryMove": {
+      "Settings": false
+    },
+    "Jesus": {
+      "Settings": false
+    },
+    "LongJump": {
+      "Settings": false
+    },
+    "NoFluid": {
+      "Settings": false
+    },
+    "NoJumpDelay": {
+      "Settings": false
+    },
+    "NoSlow": {
+      "Settings": false
+    },
+    "NoWeb": {
+      "Settings": false
+    },
+    "OldJesus": {
+      "Settings": false
+    },
+    "Parkour": {
+      "Settings": false
+    },
+    "SafeWalk": {
+      "Settings": false
+    },
+    "Sneak": {
+      "Settings": false
+    },
+    "Speed": {
+      "Settings": false
+    },
+    "Spider": {
+      "Settings": false
+    },
+    "Sprint": {
+      "Settings": false
+    },
+    "Step": {
+      "Settings": false
+    },
+    "Strafe": {
+      "Settings": false
+    },
+    "StrafeFix": {
+      "Settings": false
+    },
+    "TargetStrafe": {
+      "Settings": false
+    }
+  },
+  "Render": {
+    "open": false,
+    "visible": true,
+    "posX": 474,
+    "posY": 81,
+    "AntiBlind": {
+      "Settings": false
+    },
+    "BlockESP": {
+      "Settings": false
+    },
+    "BlockOverlay": {
+      "Settings": false
+    },
+    "Breadcrumbs": {
+      "Settings": false
+    },
+    "CameraClip": {
+      "Settings": false
+    },
+    "Chams": {
+      "Settings": false
+    },
+    "ChinaHat": {
+      "Settings": false
+    },
+    "Crosshair": {
+      "Settings": false
+    },
+    "DamageParticle": {
+      "Settings": false
+    },
+    "ESP": {
+      "Settings": false
+    },
+    "ESP2D": {
+      "Settings": false
+    },
+    "FollowTargetHud": {
+      "Settings": false
+    },
+    "FreeCam": {
+      "Settings": false
+    },
+    "Glint": {
+      "Settings": false
+    },
+    "GlowESP": {
+      "Settings": false
+    },
+    "HitEffect": {
+      "Settings": false
+    },
+    "ItemESP": {
+      "Settings": false
+    },
+    "ItemPhysics": {
+      "Settings": false
+    },
+    "JumpCircle": {
+      "Settings": false
+    },
+    "KillESP": {
+      "Settings": false
+    },
+    "NameTags": {
+      "Settings": false
+    },
+    "NoBob": {
+      "Settings": false
+    },
+    "NoFOV": {
+      "Settings": false
+    },
+    "Particles": {
+      "Settings": false
+    },
+    "PerspectiveMod": {
+      "Settings": false
+    },
+    "PointerESP": {
+      "Settings": false
+    },
+    "Projectiles": {
+      "Settings": false
+    },
+    "Radar": {
+      "Settings": false
+    },
+    "Skeletal": {
+      "Settings": false
+    },
+    "StorageESP": {
+      "Settings": false
+    },
+    "SuperheroFX": {
+      "Settings": false
+    },
+    "Tracers": {
+      "Settings": false
+    },
+    "Trails": {
+      "Settings": false
+    },
+    "TrueSight": {
+      "Settings": false
+    },
+    "XRay": {
+      "Settings": false
+    }
+  },
+  "Client": {
+    "open": false,
+    "visible": true,
+    "posX": 219,
+    "posY": 53,
+    "Animations": {
+      "Settings": false
+    },
+    "CapeManager": {
+      "Settings": false
+    },
+    "ChatControl": {
+      "Settings": true
+    },
+    "ClickGUI": {
+      "Settings": false
+    },
+    "ClientSpoof": {
+      "Settings": false
+    },
+    "DiscordRPC": {
+      "Settings": false
+    },
+    "HUD": {
+      "Settings": false
+    },
+    "Hotbar": {
+      "Settings": false
+    },
+    "HudDesigner": {
+      "Settings": false
+    },
+    "HurtCam": {
+      "Settings": false
+    },
+    "KeyBindManager": {
+      "Settings": false
+    },
+    "NoAchievements": {
+      "Settings": false
+    },
+    "Performance": {
+      "Settings": false
+    },
+    "Rotations": {
+      "Settings": false
+    },
+    "ScriptGUI": {
+      "Settings": false
+    },
+    "SoundModules": {
+      "Settings": false
+    },
+    "Target": {
+      "Settings": false
+    },
+    "UIEffects": {
+      "Settings": false
+    },
+    "Wings": {
+      "Settings": false
+    }
+  },
+  "World": {
+    "open": true,
+    "visible": true,
+    "posX": 199,
+    "posY": 114,
+    "Ambience": {
+      "Settings": false
+    },
+    "ChestAura": {
+      "Settings": false
+    },
+    "FastBreak": {
+      "Settings": false
+    },
+    "FastPlace": {
+      "Settings": false
+    },
+    "Fisher": {
+      "Settings": false
+    },
+    "Fucker": {
+      "Settings": true
+    },
+    "LightningDetect": {
+      "Settings": false
+    },
+    "NoSlowBreak": {
+      "Settings": false
+    },
+    "Nuker": {
+      "Settings": false
+    },
+    "Scaffold": {
+      "Settings": false
+    },
+    "SpeedMine": {
+      "Settings": false
+    },
+    "Stealer": {
+      "Settings": false
+    },
+    "Timer": {
+      "Settings": false
+    }
+  }
+}

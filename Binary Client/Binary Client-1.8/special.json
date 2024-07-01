@@ -1,0 +1,28 @@
+{
+  "prefix": ".",
+  "auto-reconnect": 60000,
+  "alt-field": "%n%n_%s%s%s%s",
+  "use-glyph-fontrenderer": true,
+  "anti-forge": {
+    "enable": false,
+    "block-fml": true,
+    "block-proxy": true,
+    "block-payload": true
+  },
+  "serverspoof": {
+    "enable": true,
+    "address": "redesky.com"
+  },
+  "proxy": {
+    "enable": false,
+    "address": "127.0.0.1:10808",
+    "type": "SOCKS"
+  },
+  "background": {
+    "enable": true,
+    "particles": false,
+    "gradient": "Windy",
+    "gradient-side": "LEFT",
+    "gradient-animated": true
+  }
+}
